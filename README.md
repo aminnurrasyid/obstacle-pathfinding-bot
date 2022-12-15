@@ -1,7 +1,7 @@
 # Time Chaser 🤖
 a development of Reinforcement Learning bot to find path towards reward with randomized obstacles and a time limit.
 
-## The Environment
+![2022-12-15 15-23-48](https://user-images.githubusercontent.com/57680454/207801922-b407d211-ac05-440f-b541-fd51bd941a9f.gif)
 
 ## Method
 * Deep Q-Learning<br/>
